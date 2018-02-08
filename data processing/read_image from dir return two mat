@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+#return  example mat and onehot mat
 import tensorflow as tf
 import numpy as np
 import PIL.Image as Image
